@@ -1,5 +1,9 @@
 # awesome_onboarding
 
+## Previews
+
+[![ Go Router on Web Mode](https://img.youtube.com/vi/pSWYzUOohi8/0.jpg)](https://www.youtube.com/watch?v=pSWYzUOohi8)
+
 A new Flutter project.
 
 ## Getting Started
